@@ -1,7 +1,19 @@
+// Contoh format dataset yang benar (dataset.json)
 [
-  { "text": "saya sangat senang dengan produk ini", "label": "positive" },
-  { "text": "kualitasnya buruk dan mengecewakan", "label": "negative" },
-  { "text": "produk ini sangat bermanfaat", "label": "positive" },
-  { "text": "saya tidak puas dengan layanan ini", "label": "negative" },
-  { "text": "barang rusak saat diterima", "label": "negative" }
+  {
+    "text": "pelayanan sangat memuaskan dan ramah",
+    "label": "positive"
+  },
+  {
+    "text": "produknya bagus sekali dan berkualitas",
+    "label": "positive"
+  },
+  {
+    "text": "pengiriman lambat dan barang rusak",
+    "label": "negative"
+  },
+  {
+    "text": "kecewa dengan pelayanannya",
+    "label": "negative"
+  }
 ]
